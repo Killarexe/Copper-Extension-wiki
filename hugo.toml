@@ -2,6 +2,8 @@ baseURL = 'https://killarexe.github.io/Copper-Extension-wiki'
 languageCode = 'en-us'
 title = 'Copper Extension Wiki'
 
+defaultContentLanguage = "en"
+
 [markup.goldmark.renderer]
   unsafe = true
 
@@ -44,4 +46,3 @@ title = 'Copper Extension Wiki'
     url = "https://modrinth.com/mod/copper-extension"
     weight = 30
     params = { icon = "github" }
-
