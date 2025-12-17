@@ -7,6 +7,9 @@ next = "datapacks/add_lightning_effect"
 weight = 20
 +++
 
+> [!CAUTION]
+> The datapacks are only supported to versions superior or equal to 1.5.0
+
 ## Creating the file
 
 Waxing transformation is one of the easiest to implement. Also **if you add a transformation for an item to an other, than the waxed item can be scraped to the unwaxed item.** *(See the [Scraping Mechanic](../../mechanics/scraping))* First you need to create a `waxing_transformation` folder in your namespace folder. Then create a simple `.json` file like your creating a custom recipe.
