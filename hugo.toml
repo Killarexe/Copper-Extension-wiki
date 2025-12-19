@@ -24,6 +24,8 @@ defaultContentLanguage = "en"
   [params.navbar]
     displayTitle = true
     displayLogo = true
+    [params.navbar.logo]
+      path = "logo.png"
   [params.footer]
     enable = false
     displayPoweredBy = false
@@ -44,13 +46,25 @@ defaultContentLanguage = "en"
   [[menu.main]]
     name = "Modrinth"
     url = "https://modrinth.com/mod/copper-extension"
+    params = { icon = "modrinth" }
     weight = 10
   [[menu.main]]
     name = "Curseforge"
-    url = "https://modrinth.com/mod/copper-extension"
+    url = "https://www.curseforge.com/minecraft/mc-mods/copper-extension"
+    params = { icon = "curseforge" }
     weight = 20
   [[menu.main]]
-    name = "Github"
-    url = "https://modrinth.com/mod/copper-extension"
+    name = "Search"
     weight = 30
+    [menu.main.params]
+      type = "search"
+  [[menu.main]]
+    name = "Lang"
+    weight = 40
+    [menu.main.params]
+      type = "language-switch"
+  [[menu.main]]
+    name = "Github"
+    url = "https://github.com/Killarexe/Copper-Extension"
+    weight = 50
     params = { icon = "github" }

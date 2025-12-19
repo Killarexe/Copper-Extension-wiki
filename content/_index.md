@@ -15,7 +15,7 @@ Welcome to the **Copper Extension wiki**! Here you can get all the informations 
 # Getting Started
 
 {{< cards >}}
-  {{< card link="mechanics" title="Mechanics" subtitle="All the mechanics and features explained to help you enderstand the mod better." image="images/feature.png" >}}
+  {{< card link="mechanics" title="Mechanics" subtitle="All the mechanics and features explained to help you enderstand the mod better." icon="support" image="images/feature.png" >}}
   {{< card link="datapacks" title="Datapacks documentaion" subtitle="A documentation on how to create your own custom datapacks for Copper Extension." icon="code" image="images/feature.png">}}
   {{< card link="configuration" title="Mod Configuration" subtitle="Learn how to configure Copper Extension." icon="cog" image="images/feature.png">}}
   {{< card link="contribute" title="How to contribute" subtitle="Contribute for Copper Extension and this wiki." icon="book-open" image="images/feature.png">}}

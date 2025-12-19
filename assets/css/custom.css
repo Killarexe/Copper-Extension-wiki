@@ -1,0 +1,13 @@
+:root {
+  --primary-hue: 206.05deg;
+  --primary-saturation: 73.71%;
+  --primary-lightness: 65.69%;
+  --hx-color-dark: #141b1e;
+  --hx-color-white: #fdfdfd;
+}
+
+.hx\:dark\:shadow-\[0_-12px_16px_\#111\]:where(.dark, .dark *) {
+  --tw-shadow-color: #141b1e;
+}
+
+
