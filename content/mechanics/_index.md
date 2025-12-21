@@ -14,8 +14,8 @@ In this part of this wiki, you can know every details for each features added on
 # Sections
 
 {{< cards >}}
-  {{< card link="oxidation" title="Oxidation" subtitle="The main feature of this mod." image="images/feature.png" >}}
+  {{< card link="oxidation" title="Oxidation" subtitle="The main feature of this mod." image="https://media.forgecdn.net/attachments/719/765/2023-08-27_18.png" >}}
   {{< card link="waxing" title="Waxing" subtitle="How to wax items to prevent oxidaiton." image="images/feature.png">}}
-  {{< card link="scraping" title="Scraping" subtitle="Remove oxidation on oxidized items." image="images/scraping_wax.gif">}}
+  {{< card link="scraping" title="Scraping" subtitle="Remove oxidation on oxidized items." image="scraping_wax.gif">}}
   {{< card link="lightning_effects" title="Lightning Effects" subtitle="Gettings potion effects from thunder! Added since version 1.5.0 of the mod." image="images/feature.png">}}
 {{< /cards >}}
