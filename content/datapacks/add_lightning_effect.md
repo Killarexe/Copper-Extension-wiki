@@ -12,7 +12,7 @@ weight = 30
 
 ## Creating the file
 
-Lightning effect is the most *"complicated"* to implement. Before doing this, see the **[Lightning Effects Mechanic](../../mechanics/lightning_effects)** First you need to create a `lightning_effect` folder in your namespace folder. Then create a simple `.json` file like your creating a custom recipe.
+Lightning effect is the most *"complicated"* to implement. Before doing this, if you need more info on this feature see the **[Lightning Effects Mechanic](../../mechanics/lightning_effects)**. First you need to create a `lightning_effect` folder in your namespace folder. Then create a simple `.json` file like your creating a custom recipe.
 
 The structure should looks like this:
 

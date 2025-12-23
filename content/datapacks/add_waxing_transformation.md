@@ -12,7 +12,9 @@ weight = 20
 
 ## Creating the file
 
-Waxing transformation is one of the easiest to implement. Also **if you add a transformation for an item to an other, than the waxed item can be scraped to the unwaxed item.** *(See the [Scraping Mechanic](../../mechanics/scraping))* First you need to create a `waxing_transformation` folder in your namespace folder. Then create a simple `.json` file like your creating a custom recipe.
+Waxing transformation is one of the easiest to implement. Also, **if you add a transformation for an item to an other, than the waxed item can be scraped to the unwaxed item.** *(See the [Scraping Mechanic](../../mechanics/scraping))* By the way, when you add a **waxing transformation doesn't apply for crafting.** So if you want **your item to be waxed with the honeycomb in the crafting table, you'll need to make a recipe.**
+
+First you need to create a `waxing_transformation` folder in your namespace folder. Then create a simple `.json` file like your creating a custom recipe.
 
 The structure should looks like this:
 
