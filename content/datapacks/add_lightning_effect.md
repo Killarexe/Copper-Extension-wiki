@@ -45,10 +45,11 @@ A Lightning Effect json file looks like this:
   "item": "<namespace>:<armor_item_id>"
 }
 ```
-| property | description |
-| ------ | --- |
-| `effect` | The effect applied to the armor item. |
-| `item` | The target armor item to trigger the effect. |
+| property | description | optional |
+| -------- | ----------- | -------- |
+| `effect` | The effect applied to the armor item. | no |
+| `item`   | The target armor item to trigger the effect. | no |
+| `replace`| If you want to overide an already existing waxing transformation (use it with caution) | yes |
 
 If you want more details for the `effect` property, check [this Minecraft Wiki page](https://minecraft.wiki/w/Data_component_format/potion_contents).
 

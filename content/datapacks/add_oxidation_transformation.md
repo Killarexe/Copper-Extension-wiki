@@ -46,6 +46,7 @@ An Oxidation transformation json file looks like this:
 | `base` | The item/block before it's oxidized it.| no |
 | `waxed` | The oxidized item/block.| no |
 | `chanceMultiplier` | The chance for the `base` item to oxidize. Between 0 and 100. | **yes** |
+| `replace`| If you want to overide an already existing waxing transformation (use it with caution) | yes |
 
 Here's an example of a oxidation transformation json file which permits a diamond item oxidize into a gold ingot.
 

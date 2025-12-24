@@ -42,10 +42,11 @@ A Waxing transformation json file looks like this:
   "waxed": "<namespace>:<after_waxing_item_id>"
 }
 ```
-| property | description |
-| ------ | --- |
-| `base` | The item/block before we wax it.|
-| `waxed` | The item/block after we wax it.|
+| property | description | optional |
+| -------- | ----------- | -------- |
+| `base`   | The item/block before we wax it.| no |
+| `waxed`  | The item/block after we wax it.| no |
+| `replace`| If you want to overide an already existing waxing transformation (use it with caution) | yes |
 
 Here's an example of a waxing transformation json file which permits to wax a cobblestone into a stone block.
 

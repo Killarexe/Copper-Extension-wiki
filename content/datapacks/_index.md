@@ -83,7 +83,7 @@ Also by the way, if you needs help to make a datapack, there is a great [website
 
 # Sections
 {{< cards >}}
-  {{< card link="add_oxidation_transformation" title="Oxidation Transformation" subtitle="Add a custom oxidation transformation in Copper Extension." icon="code" image="images/feature.png" >}}
-  {{< card link="add_waxing_transformation" title="Waxing Transformation" subtitle="Add a custom waxing transformation in Copper Extension." icon="code" image="images/feature.png" >}}
-  {{< card link="add_lightning_effect" title="Lightning Effect" subtitle="Add a custom lightning effect in Copper Extension." icon="code" image="images/feature.png" >}}
+  {{< card link="add_oxidation_transformation" title="Oxidation Transformation" subtitle="Add a custom oxidation transformation in Copper Extension." icon="code" image="oxidation.png" >}}
+  {{< card link="add_waxing_transformation" title="Waxing Transformation" subtitle="Add a custom waxing transformation in Copper Extension." icon="code" image="../mechanics/waxing.png" >}}
+  {{< card link="add_lightning_effect" title="Lightning Effect" subtitle="Add a custom lightning effect in Copper Extension." icon="code" image="../mechanics/lightning_effect.png" >}}
 {{< /cards >}}
