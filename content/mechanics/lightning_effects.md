@@ -9,8 +9,7 @@ next = "mechanics/oxidation"
 
 Lightning effects is a special feature which give for **the entity who wears copper armors to get special effects when it's srike by a thunderbolt.** This feature was **added since Copper Extension 1.5.0.**
 
-
-TODO: Add gif
+![](lightning_effect.png)
 
 Each oxidation level gives different effects. And each armor parts give a different duration.
 

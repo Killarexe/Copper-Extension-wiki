@@ -19,4 +19,4 @@ Copper Extension add a feature that when you right-click a copper item on a beeh
 
 You can shift right-click to wax the maximum amount of item you can wax.
 
-TODO: add gif
+![](waxing.gif)

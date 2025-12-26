@@ -9,7 +9,7 @@ weight = 40
 
 With the Minecraft copper update, they introduce copper armor and tools. Since Copper Extension 1.5.0, **this mod adds oxidation states for the copper armor and tools.** Each oxidation layer have there pros and cons. 
 
-TODO: add copper armor screeshot
+![](copper_armor.png)
 
 First, for the copper armor and tools, **the more they are oxidized, the less enchant power they get.** So a brand new copper pickaxe will have better enchantements on the enchantement table than an oxidized copper pickaxe. Also, **copper armor get more durability the more it's oxidized.**
 
