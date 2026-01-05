@@ -18,7 +18,7 @@ Pros and cons list:
 | Oxidation stage | Pros | Cons |
 | --------------- | ---- | ---- |
 | Exposed         | +0.25 base damage | -0.5 base speed |
-| Weathered       | TODO | TODO |
-| Oxidized        | TODO | TODO |
+| Weathered       | More durability | No additional damage |
+| Oxidized        | Even more durability | No [Lightning Effects](../lightning_effects) |
 
 Each oxidation level of the copper armor can give different potion effects thanks to the [Lightning Effect](../lightning_effects) feature.

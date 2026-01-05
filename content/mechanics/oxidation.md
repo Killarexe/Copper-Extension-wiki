@@ -9,7 +9,7 @@ next = "mechanics/waxing"
 
 Copper blocks can oxidize during time. And this mod adds the ability to copper items like ingots, nuggets, etc... to oxidize in your inventory. **Item oxidation applies only when the item is in an inventory of an entity like the player or a zombie, and when it's dropped.**
 
-TODO: add oxidation gif
+![](https://cdn.modrinth.com/data/11Hgyyey/images/473c91f86acc198acb234e98c674bfc77049ce5d.png)
 
 **Oxidation speed/chance can be configured via the gamerule `copperOxidationChance`**, which was added since Copper Extension 1.2.1. More info [here](../../configuration).
 
