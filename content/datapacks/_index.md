@@ -30,11 +30,11 @@ Create a simple world on your Minecraft **with the Copper Extension mod added.**
 
 Go into the datapack folder of your brand new world. First you need to find the world folder. To find it try to go on this path.
 
-{{< tabs items="Windows,macOS,Linux" defaultIndex="0" >}}
+{{< tabs >}}
 
-  {{< tab >}}Press *Alt+D* or *Win+R* then navigate to `%APPDATA%\.minecraft\saves\`, and then select your world folder.{{< /tab >}}
-  {{< tab >}}Press *Cmd+Shift+D* then navigate to `~/Library/Application Support/minecraft/saves/`, and then select your world folder.{{< /tab >}}
-  {{< tab >}}Go to `~/.minecraft/saves/`, and then select your world folder.{{< /tab >}}
+  {{< tab name = "Windows">}}Press *Alt+D* or *Win+R* then navigate to `%APPDATA%\.minecraft\saves\`, and then select your world folder.{{< /tab >}}
+  {{< tab name = "macOS" >}}Press *Cmd+Shift+D* then navigate to `~/Library/Application Support/minecraft/saves/`, and then select your world folder.{{< /tab >}}
+  {{< tab name = "Linux" >}}Go to `~/.minecraft/saves/`, and then select your world folder.{{< /tab >}}
 
 {{< /tabs >}}
 
